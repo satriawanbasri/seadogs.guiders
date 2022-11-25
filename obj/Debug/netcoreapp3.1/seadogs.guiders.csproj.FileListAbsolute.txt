@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\seadogs.guiders\bin\Debug\netcoreapp3.1\seadogs.guiders.deps.json
+C:\Users\User\Downloads\seadogs.guiders\bin\Debug\netcoreapp3.1\seadogs.guiders.dll
+C:\Users\User\Downloads\seadogs.guiders\bin\Debug\netcoreapp3.1\seadogs.guiders.pdb
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.AssemblyInfo.cs
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.dll
+C:\Users\User\Downloads\seadogs.guiders\obj\Debug\netcoreapp3.1\seadogs.guiders.pdb
